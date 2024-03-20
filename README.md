@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manyLizards
 - 👀 I’m interested in webdev and gamedev.
-- 🌱 I’m currently learning fullstack software engineering at UT Austin's online coding bootcamp! We are mainly focusing on javascript, and I intend to learn C++ and python as well.
+- 🌱 I have a Certificate for Full Stack Web Development from the University of Texas at Austin and am currently pursuing my Bachelor's in Computer Science at Southern New Hampshire University
 - 💞️ I’m looking to collaborate on projects! My email is jnbarringer96@gmail.com
 
 <!---
